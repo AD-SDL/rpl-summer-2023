@@ -24,6 +24,11 @@ Please find some of the tutorials recorded at our box folder.
 * Github with Alex Brace ([link](https://anl.app.box.com/file/981389888412))
 * VR with Rory (tbd)
 
+## Python resources -- all over the web, here is a start:
+* The Python Tutorial is a good general introduction and reference [https://docs.python.org/3/tutorial/]
+* Python for Programmers gives a broad perspective that might be interesting [https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html] 
+* A list of additional resources can be found here at [https://wiki.python.org/moin/BeginnersGuide/Programmers]
+
 ## Github
 
 We recommend these tutorials if you are new to git:
@@ -70,7 +75,7 @@ Please do not add large files to git repositories if possible.
 
 ## Daily blogs
 
-This is a space to keep your daily blogs and maintain a `README.md` with links to resources that may be shared using non-Git avenues.
+This repository is a space to keep your daily blogs and maintain a `README.md` with links to resources that may be shared using non-Git avenues.
 
 * Create a folder named per your name.
 * Copy the daily_log_template.md and rename it to README.md
