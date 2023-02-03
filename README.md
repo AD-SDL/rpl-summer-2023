@@ -25,9 +25,9 @@ Please find some of the tutorials recorded at our box folder.
 * VR with Rory (tbd)
 
 ## Python resources -- all over the web, here is a start:
-* The Python Tutorial is a good general introduction and reference [https://docs.python.org/3/tutorial/]
-* Python for Programmers gives a broad perspective that might be interesting [https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html] 
-* A list of additional resources can be found here at [https://wiki.python.org/moin/BeginnersGuide/Programmers]
+* The Python Tutorial is a good general introduction and reference [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/)
+* Python for Programmers gives a broad perspective that might be interesting [https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html) 
+* A list of additional resources can be found here at [https://wiki.python.org/moin/BeginnersGuide/Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
 ## Github
 
