@@ -7,7 +7,17 @@ Here are some links and instructions to help you around.
 
 ## Getting Started
 
-Checkout this page here. [www.github.com/AD-SDL](AD-SDL)
+- RPL website [https://rpl.cels.anl.gov/]
+- Github home page [www.github.com/AD-SDL](AD-SDL)
+
+### Required Safety Courses
+Several safety courses are required to be completed in your first couple days working in the RPL. Go to MyArgonne at [https://my.anl.gov/] and navigate to Training Management System (TMS) under 'My Apps', the complete the following courses:
+
+- ESH195 Personal Protective Equipment
+- CELS102 ESH Plan for working in Rm4302
+- ESH108 Take Building Orientation for Building 240 and Building 446
+- ESH141 Portable Hand and Power Tool Safety
+- ESH408 Basic Electrical Safety Awareness
 
 ## Slack
 
@@ -15,9 +25,24 @@ We will invite you to our slack workspace. Please let us know if you have not be
 
 ## Student meetings
 
-During the summer we will have a series of meetings
+During the summer we will have a series of meetings you will be required to attend
 
-### Recordings
+### Weekly Journal Club (Day/Time/Room TODO)
+Students will participate in a weekly journal club in which each week one or a pair of students will lead a presntation on a paper they find or interesting or that pertains to their own research
+#### Virtual Link: TODO
+
+### RPL Weekly Meeting (Day/Time TODO)
+Students are expected to present a single slide each week on updates, challenges, and next steps for the following week. You can upload this slide to github each week
+
+### Learn Something New Series (Day/Time TODO)
+Each week a different member of the RPL will be presenting a "Learn Something New" presentation designed to help understand some of the various concepts which are used in the RPL every day. These can range anywhere from broad computer science concepts to the functions of a specific robot. If you have anything you'd like to learn more about feel free to suggest a topic to any one of us!
+
+#### Learn Something New Recordings
+
+## End of Summer Presentation
+Each student will be required to summarize all of their work completed over the course of the Summer at the end of their internship in a presentation for the RPL staff and CELS leadership. (If you are already doing a final presentation for SULI/Learning on the Lawn you don't have to present twice)
+
+## Recordings
 
 Please find some of the tutorials recorded at our box folder.
 
