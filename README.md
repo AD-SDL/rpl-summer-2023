@@ -7,11 +7,11 @@ Here are some links and instructions to help you around.
 
 ## Getting Started
 
-- RPL website [https://rpl.cels.anl.gov/]
+- RPL website https://rpl.cels.anl.gov/
 - Github home page [www.github.com/AD-SDL](AD-SDL)
 
 ### Required Safety Courses
-Several safety courses are required to be completed in your first couple days working in the RPL. Go to MyArgonne at [https://my.anl.gov/] and navigate to Training Management System (TMS) under 'My Apps', the complete the following courses:
+Several safety courses are required to be completed in your first couple days working in the RPL. Go to MyArgonne at https://my.anl.gov/ and navigate to Training Management System (TMS) under 'My Apps', then complete the following courses:
 
 - ESH195 Personal Protective Equipment
 - CELS102 ESH Plan for working in Rm4302
@@ -28,7 +28,7 @@ We will invite you to our slack workspace. Please let us know if you have not be
 During the summer we will have a series of meetings you will be required to attend
 
 ### Weekly Journal Club (Day/Time/Room TODO)
-Students will participate in a weekly journal club in which each week one or a pair of students will lead a presntation on a paper they find or interesting or that pertains to their own research
+Students will participate in a weekly journal club in which each week one or a pair of students will lead a presntation on a paper they find interesting or that pertains to their own research
 #### Virtual Link: TODO
 
 ### RPL Weekly Meeting (Day/Time TODO)
