@@ -8,8 +8,7 @@ Below are some links and instructions to help you get started.
 ### Index
 1. [Getting Started](https://github.com/AD-SDL/rpl-summer-2023#getting-started)
 2. [Internship Requirements](https://github.com/AD-SDL/rpl-summer-2023#internship-requirements)
-3. [Other Resources](https://github.com/AD-SDL/rpl-summer-2023#other-
-resources)
+3. [Other Resources](https://github.com/AD-SDL/rpl-summer-2023#other-resources)
 
 ## Getting Started
 
