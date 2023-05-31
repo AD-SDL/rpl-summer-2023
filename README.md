@@ -5,6 +5,12 @@ Welcome to the Rapid Prototyping Lab (RPL).
 
 Below are some links and instructions to help you get started.
 
+### Index
+1. [Getting Started](https://github.com/AD-SDL/rpl-summer-2023#getting-started)
+2. [Internship Requirements](https://github.com/AD-SDL/rpl-summer-2023#internship-requirements)
+3. [Other Resources](https://github.com/AD-SDL/rpl-summer-2023#other-
+resources)
+
 ## Getting Started
 
 ### Important Links
@@ -116,7 +122,7 @@ Each week a different member of the RPL will be presenting a "Learn Something Ne
 Each student will be required to summarize all of their work completed over the course of the summer at the end of their internship in a presentation for the RPL staff and CELS leadership. (If you are already doing a final presentation for SULI/Learning on the Lawn you don't have to present twice. Presenations and/or posters should be uploaded to each student's GitHub folder before the end of the internship.
 
 
-## Resources 
+## Other Resources 
 ### Recordings
 
 Please find some of the tutorials recorded at our box folder.
