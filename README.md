@@ -1,12 +1,13 @@
 # Rapid Prototyping Lab - Summer 2023
 
 Howdy folks!!
-Welcome to RPL or Rapid Prototyping Lab.
+Welcome to the Rapid Prototyping Lab (RPL).
 
-Here are some links and instructions to help you around.
+Below are some links and instructions to help you get started.
 
 ## Getting Started
 
+### Important Links
 - RPL website https://rpl.cels.anl.gov/
 - Github home page [www.github.com/AD-SDL](AD-SDL)
 
@@ -41,72 +42,11 @@ We will invite you to our slack workspace. Please let us know if you have not be
 
 We store a lot of files related to the RPL's robots in our [Box folder](https://anl.app.box.com/folder/189023149157). Casey should invite you to join this folder with your argonne email, but remind her if she forgets. 
 
-### GitHub
+### GitHub  
 
-  Each student will need to create their own folder in our [summer 2023 student GitHub repo](https://github.com/AD-SDL/rpl-summer-2023).
+  Each student will need to create their own folder in our [summer 2023 student GitHub repo](https://github.com/AD-SDL/rpl-summer-2023). This is where your daily logs and all weekly status updates will be stored, more details on those below. 
 
-  Steps: 
-  1. Create a GitHub account if you don't already have one. Use your personal email so you can keep the account after your internship ends.
-  
-  2. Send Casey or Raf the email associated with your GitHub account and remind them to add you to the repo. 
-
-  3. Create a branch for you to make your changes (TODO: add how to)
- 
-  4. Create a folder named your first name only. 
-    - TODO: add how to
-    - TODO: add link to example student repos from last year
-
-  5. Add a headshot of yourself to your folder. Don't worry about this too much, just choose the most professional photo of yourself that you have. We will use these on our [website](rpl.cels.anl.gov) to show our summer students for this year. 
-
-  6. Create a daily log file (called daily)
-
-
-
-## Internship Requirements
-### Student meetings
-
-During the summer we will have a series of meetings you will be required to attend
-
-### Weekly Journal Club (Day/Time/Room TODO)
-Students will participate in a weekly journal club in which each week one or a pair of students will lead a presntation on a paper they find interesting or that pertains to their own research
-#### Virtual Link: TODO
-
-### RPL Weekly Meeting (Day/Time TODO)
-Students are expected to present a single slide each week on updates, challenges, and next steps for the following week. You can upload this slide to github each week
-
-### Learn Something New Series (Day/Time TODO)
-Each week a different member of the RPL will be presenting a "Learn Something New" presentation designed to help understand some of the various concepts which are used in the RPL every day. These can range anywhere from broad computer science concepts to the functions of a specific robot. If you have anything you'd like to learn more about feel free to suggest a topic to any one of us!
-
-#### Learn Something New Recordings
-
-## End of Summer Presentation
-Each student will be required to summarize all of their work completed over the course of the Summer at the end of their internship in a presentation for the RPL staff and CELS leadership. (If you are already doing a final presentation for SULI/Learning on the Lawn you don't have to present twice)
-
-## Recordings
-
-Please find some of the tutorials recorded at our box folder.
-
-* Github with Alex Brace ([link](https://anl.app.box.com/file/981389888412))
-* VR with Rory (tbd)
-
-## Python resources -- all over the web, here is a start:
-* The Python Tutorial is a good general introduction and reference [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/)
-* Python for Programmers gives a broad perspective that might be interesting [https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html) 
-* A list of additional resources can be found here at [https://wiki.python.org/moin/BeginnersGuide/Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-
-## Github
-
-We recommend these tutorials if you are new to git:
-
-* [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
-* [https://www.youtube.com/watch?v=SWYqp7iY_Tc](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-
-Please do not add large files to git repositories if possible.
-
-* Please ask your supervisor where to put them.
-* Please do not clone a git repository in a directory that is synced with icloud or any other sync mechanism, as files might be deleted.
-
-### Process for Github
+  #### Process for Github
 
 * Fork the <https://github.com/AD-SDL/rpl-summer-2023> repository.  
   * This will create a “copy” of the repository in your own profile.  (ex. <https://github.com/ravescovi/rpl-summer-2023>)
@@ -138,10 +78,65 @@ Please do not add large files to git repositories if possible.
 
 <https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request>
 
-## Daily blogs
+See the resources section below for a GitHub tutorial from summer 2022.
 
-This repository is a space to keep your daily blogs and maintain a `README.md` with links to resources that may be shared using non-Git avenues.
+ 
+## Internship Requirements
+### Student meetings
+*(Thursdays from 11:15am - 1:15pm in the RPL,bldg 240, room 4302, or virtual)*
 
-* Create a folder named per your name.
-* Copy the daily_log_template.md and rename it to README.md
-* Update the info on the log
+- first hour (11:15-12:15) student updates
+- second hour (12:15-1:15) RPL technical meeting
+
+Our weekly RPL meeting will be held once per week over the summer. All RPL students are required to attend and present one or two slides about what they've been working on the past week. This should include any progress they've made over the past week, any challenges or questions they have, and their next steps for the project. 
+
+After the weekly meeting, these student update slides should be uploaded to each student's GitHub folder. 
+
+See this [Box Folder](https://anl.app.box.com/folder/165354117265) for examples of student update slides from summer 2022. Last year we stored them on Box but this year they should be added to your GitHub folders. 
+
+
+### Journal Club 
+*(Fridays at 2pm in building 240, room ??? or virtual)*
+
+[Recordings of past journal clubs and sign up sheet](https://anl.app.box.com/folder/132195801817?s=4gaiuz0w2ow4dx71cvtnni4dnv8x8yhu)
+
+ Students will participate in a weekly journal club hosted by the Ramanathan Lab. Each week one student or a pair of students will lead a presentation on a scientific paper that they find interesting or that pertains to their own research. 
+- How to journal club intro meeting: *(TODO: date and time)*
+
+- Remind Casey to add you to Teams meeting invite 
+
+### Learn Something New Series
+*(Thursdays at 2pm in the RPL)* - Starting date TBD
+
+Each week a different member of the RPL will be presenting a "Learn Something New" presentation designed to help understand some of the various concepts which are used in the RPL every day. These can range anywhere from broad computer science concepts to the functions of a specific robot. If you have anything you'd like to learn more about feel free to suggest a topic to any one of us!
+
+[Box folder with some of last year's recordings](https://anl.app.box.com/folder/210434596872)
+
+### End of Summer Presentation
+Each student will be required to summarize all of their work completed over the course of the summer at the end of their internship in a presentation for the RPL staff and CELS leadership. (If you are already doing a final presentation for SULI/Learning on the Lawn you don't have to present twice. Presenations and/or posters should be uploaded to each student's GitHub folder before the end of the internship.
+
+
+## Resources 
+### Recordings
+
+Please find some of the tutorials recorded at our box folder.
+
+* Github with Alex Brace ([link](https://anl.app.box.com/folder/167057468100))
+* VR with Rory (tbd)
+
+### Python resources -- all over the web, here is a start:
+* The Python Tutorial is a good general introduction and reference [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/)
+* Python for Programmers gives a broad perspective that might be interesting [https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html) 
+* A list of additional resources can be found here at [https://wiki.python.org/moin/BeginnersGuide/Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
+### Github
+
+We recommend these tutorials if you are new to git:
+
+* [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
+* [https://www.youtube.com/watch?v=SWYqp7iY_Tc](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+Please do not add large files to git repositories if possible.
+
+* Please ask your supervisor where to put them.
+* Please do not clone a git repository in a directory that is synced with icloud or any other sync mechanism, as files might be deleted.
