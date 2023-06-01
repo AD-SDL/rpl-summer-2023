@@ -13,8 +13,9 @@ Below are some links and instructions to help you get started.
 ## Getting Started
 
 ### Important Links
-- RPL website https://rpl.cels.anl.gov/
-- Github home page [www.github.com/AD-SDL](AD-SDL)
+- [RPL website](https://rpl.cels.anl.gov/)
+- [GitHub home page (AD_SDL)](www.github.com/AD-SDL)
+- [RPL read the docs](https://rplab.readthedocs.io/en/latest/)
 
 ### Required Safety Courses
 Several safety courses are required to be completed in your first couple days working in the RPL. Go to MyArgonne at https://my.anl.gov/ and navigate to Training Management System (TMS) under 'My Apps', then complete the following courses:
