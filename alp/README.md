@@ -1,20 +1,15 @@
-# Rafael Vescovi
+# Alp Demirtas
 
-**Project name:** Modular Robotics for Science
-**Advisor:** Ian Foster
-**Email:** ravescovi@anl.gov
+**Project name:** Argonne SULI 2023 Internship - BIO Workcell Progress
+**Advisor:** Abe Stroka
+**Email:** aedemirtas04@gmail.com
 
 ## Project description
 
-AutoBots Roll!
+Argonne SULI 2023 Internship - BIO Workcell Progress
 
 ## Diary
 
-### Date
+### 6/1/2023
 
-- Bullet point description
-
-### 06/22 
-
-- A new star was born 33 years ago. Not me, I was just a baby.
-- this only exist at Raf's repo
+- Created internship initiation folder and sample workflow and workcell
