@@ -19,11 +19,17 @@ Below are some links and instructions to help you get started.
 ### Required Safety Courses
 Several safety courses are required to be completed in your first couple days working in the RPL. Go to MyArgonne at https://my.anl.gov/ and navigate to Training Management System (TMS) under 'My Apps', then complete the following courses:
 
+For the RPL:
 - [ESH195 Personal Protective Equipment](https://apps.inside.anl.gov/que/public/item/WBT/ESH195/splash)
 - [CELS102 ESH Plan for working in Rm4302](https://apps.inside.anl.gov/que/public/item/WBT/CELS102/splash)
 - [ESH108 Take Building Orientation for Building 240 and Building 446](https://apps.inside.anl.gov/tbd/setCourse.ctrl)
 - [ESH141 Portable Hand and Power Tool Safety](https://apps.inside.anl.gov/que/public/item/WBT/ESH141/splash)
 - [ESH408 Basic Electrical Safety Awareness](https://apps.inside.anl.gov/que/public/item/WBT/ESH408/splash)
+
+For BIO: 
+- [ESH108446 Building Orientation for building 446](https://apps.inside.anl.gov/tbd/setCourse.ctrl?courseNo=ESH108&sectionNo=446)
+
+
 
 You will also need to review this [Work Control Document](https://apps.inside.anl.gov/birt/run?__report=/var/www-data/webapps/birt/prod/reports/wpc/wpc2_worker_package.rptdesign&wcd_id=10058665&__format=pdf&__parameterpage=false) (WCD) before beginning work in the Rapid Prototyping Laboratory. Please let Casey know once you've fully reviewed this document so she can add you to the RPL's list of authorized workers.
 
@@ -120,8 +126,8 @@ Each week a different member of the RPL will be presenting a "Learn Something Ne
 ### End of Summer Presentation
 Each student will be required to summarize all of their work completed over the course of the summer at the end of their internship in a presentation for the RPL staff and CELS leadership. (If you are already doing a final presentation for SULI/Learning on the Lawn you don't have to present twice. Presenations and/or posters should be uploaded to each student's GitHub folder before the end of the internship.
 
-
 ## Other Resources 
+
 ### Recordings
 
 Please find some of the tutorials recorded at our box folder.
