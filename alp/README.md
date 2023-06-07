@@ -20,3 +20,7 @@ Argonne SULI 2023 Internship - BIO Workcell Progress
 ### 6/5/2023
 - Morning: Completed all Training Modules on Argonne TMS (except for SEC160 Practical Preparedness for Workplace Violence, which is meeting on July 5th at 10 am)
 - Afternoon: Created a parallel workflow python structure on the alp branch in the BIO_Workcell ReadMe
+
+### 6/6/2023
+- Morning: Tested Base version Previously Written parallel workflow structure on BIO Workcells
+- Afternoon: Developed a more robust parallel workflow structure on python and successfully ran Plate Crane and Peeler in parallel. Had trouble running PlateCrane and Hidex together in parallel because Hidex reader shut down after the request was sent each time.
