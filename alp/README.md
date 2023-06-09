@@ -25,6 +25,10 @@ Argonne SULI 2023 Internship - BIO Workcell Progress
 - Morning: Tested Base version Previously Written parallel workflow structure on BIO Workcells
 - Afternoon: Developed a more robust parallel workflow structure on python and successfully ran Plate Crane and Peeler in parallel. Had trouble running PlateCrane and Hidex together in parallel because Hidex reader shut down after the request was sent each time.
 
-### 6/7/2023
-- Morning: Attended Raf's Seminar Series
-- Afternoon: Tested Full Bio Workflow
+### 6/8/2023
+- Morning: Presented Weekly Updates at RPL Meeting
+- Afternoon: Completed First Run Through with Less Than 12 Hour Wait Times
+- 
+### 6/9/2023
+- Morning: Incorporated Tip Refill csv Code into the Bio Workflow
+- Afternoon: Ran Full Bio Workflow Run-Through for 12 Hours after Completed Potential Errors for Hidex Loading
