@@ -32,7 +32,15 @@ Argonne SULI 2023 Internship - BIO Workcell Progress
 ### 6/8/2023
 - Morning: Presented Weekly Updates at RPL Meeting
 - Afternoon: Completed First Run Through with Less Than 12 Hour Wait Times
-- 
+
 ### 6/9/2023
 - Morning: Incorporated Tip Refill csv Code into the Bio Workflow
 - Afternoon: Ran Full Bio Workflow Run-Through for 12 Hours after Completed Potential Errors for Hidex Loading
+
+### 6/12/2023
+- Morning: Conducted progress update on the 12 Hour Run and Noticed Hidex Errors
+- Afternoon: Developed Diagnosis Test for Hidex Code to Observe when the Machine Times Out
+
+### 6/13/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
