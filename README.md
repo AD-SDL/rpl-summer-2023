@@ -29,7 +29,7 @@ For the RPL:
 
 For BIO: 
 - [ESH108446 Building Orientation for building 446](https://apps.inside.anl.gov/tbd/setCourse.ctrl?courseNo=ESH108&sectionNo=446)
-
+- [ESH115 Laboratory Safety Training](https://www.eshtraining.anl.gov/courses/esh115/story.html)
 
 
 You will also need to review this [Work Control Document](https://apps.inside.anl.gov/birt/run?__report=/var/www-data/webapps/birt/prod/reports/wpc/wpc2_worker_package.rptdesign&wcd_id=10058665&__format=pdf&__parameterpage=false) (WCD) before beginning work in the Rapid Prototyping Laboratory. Please let Casey know once you've fully reviewed this document so she can add you to the RPL's list of authorized workers.
