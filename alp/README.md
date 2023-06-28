@@ -86,6 +86,6 @@ Argonne SULI 2023 Internship - BIO Workcell Progress
 - Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
 
 ### 6/28/2023
-- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
-- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+- Morning: Debugged "Remote Host Forcibly Closed Socket" Error and Researched Potential Solutions
+- Afternoon: Implemented Socket.Poll() in Hidex script to address the error and continued trying to update Position 2 deck height on SoloSoft to no avail.
 
