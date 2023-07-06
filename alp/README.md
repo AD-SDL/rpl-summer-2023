@@ -44,3 +44,48 @@ Argonne SULI 2023 Internship - BIO Workcell Progress
 ### 6/13/2023
 - Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
 - Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+
+### 6/14/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+  
+### 6/15/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+
+### 6/16/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+
+### 6/19/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+
+### 6/20/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+
+### 6/21/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+
+### 6/22/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+
+### 6/23/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+
+### 6/26/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+
+### 6/27/2023
+- Morning: Wrote and Tested Code to Test New Pinging Loop Developed by Tobias and Helped Workshop Golden Gate Experiment and transfer experimental procedure to robotic workflow
+- Afternoon: Wrote Cohesive Code and Yaml Workflows With Capabilities for running 2 and 6 96-well plate
+
+### 6/28/2023
+- Morning: Debugged "Remote Host Forcibly Closed Socket" Error and Researched Potential Solutions
+- Afternoon: Implemented Socket.Poll() in Hidex script to address the error and continued trying to update Position 2 deck height on SoloSoft to no avail.
+
