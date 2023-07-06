@@ -8,10 +8,13 @@
 
 Utilizing 3D camera with UR5 robot to pick and place objects.
 
-## Diary
+## Diarygit status
 
 ### 06/08 
 
 -Finish most of training
 -Finish CADing for robot
 -Printing prototype today
+
+### 06/14
+Powerpoint:
