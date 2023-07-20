@@ -37,9 +37,12 @@ Steps for Wall-E's process
 13. Put it over a saved location, indicating the place that shows
     where to store the object
 15. Drop down and open the gripper to drop the object
-
+ 
 ** In order to do step 8, we can obtain the best angle by keep rotating 
 the camera in a loop to obtain the smallest area of the boundary box. 
 The computer can rotate the orientation of the camera instead of 
-rotating the gripper itself so that the process is more efficient
+rotating the gripper itself so that the process is more efficient **
 
+### 07/20
+Waiting for the raspberry pi to download all of the applications it need so that we can use the camera with the robot at the same time
+We're going to test all of the code we have so far and debug if needed
