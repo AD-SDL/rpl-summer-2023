@@ -46,3 +46,7 @@ rotating the gripper itself so that the process is more efficient **
 ### 07/20
 Waiting for the raspberry pi to download all of the applications it need so that we can use the camera with the robot at the same time
 We're going to test all of the code we have so far and debug if needed
+
+### 07/24
+The arm is able to center the gripper to the center of the object. However, the camera is also detecting other objects in the frame and want to be in the center of that object instead. Have to code so it only focuses on the wellplate.
+
